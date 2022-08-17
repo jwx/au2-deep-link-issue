@@ -1,0 +1,14 @@
+{
+  "name": "aurelia-deep-link-issue",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@aurelia/kernel": "dev",
+    "@aurelia/router": "dev",
+    "@aurelia/runtime-html": "dev",
+    "@aurelia/validation": "dev",
+    "@aurelia/validation-html": "dev",
+    "aurelia": "dev",
+    "tslib": "2.4.0"
+  }
+}
